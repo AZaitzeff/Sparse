@@ -24,8 +24,11 @@ for all edges between <startnode> <endnode> the txt file should have
 
 <startnode> <endnode>
 Example of the cycle graph on three nodes
+
 0 1
+
 1 2
+
 2 0
 
 
